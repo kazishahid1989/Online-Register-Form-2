@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(57, 87, 32);
+
+    
+}
+
+#form{
+    width:550px;
+    height:800px;
+    margin: 20px auto;
+    padding-left: 30px;
+    background-color:rgb(186, 235, 95);
+    color:black;
+    font-size: 20px;
+    box-shadow: 0 0 10px rgb(240, 35, 35);
+    border-radius: 5px;
+    
+
+}
+
+h2{
+    text-align: center;
+    background-color:rgb(219, 143, 143);
+    color: rgb(235, 57, 57);
+    border-radius: 5px;
+    padding:5px;
+}
+tr, td{
+    color:black;
+    font-size:20px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+#form, input{
+    padding:5px;
+
+}
+#bottom-area{
+    padding-left:20px ;
+}
+
